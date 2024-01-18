@@ -18,7 +18,7 @@ Bienvenidos al puzzle de código. Como sabéis un puzzle se compone de piezas y 
 - Una pondrá "si ya lo has usado", si es así no se puede volver a usar. Márcalo con una X o un yes.... Así llevarás un registro visual de lo que llevas y lo que te queda. 
 - También hay otro apartado donde pone "explicación". Ahí deberás poner un pequeño resumen de lo que hace ese trozo de código. Podéis buscar en internet cosas que no sepáis para poder componeren la totalidad el programa.
 
-Así más o menos podría quiedar:
+Así más o menos podría quedar:
 //Usado?: YES
   const middlewares = require('./middlewares');
 //--- Explicación: 
